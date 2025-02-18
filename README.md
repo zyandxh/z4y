@@ -3,7 +3,6 @@
 - <p>🌱 我正在学习python-----------------------------------🌱 I’m currently learning python</p>
 - <p>💞️ 我正在寻找朋友-------------------------------------💞️ I’m looking for some friends</p>
 - <p>📫 如何联系:zyandxh@outlook.com或3883794072-📫 How to reach me:zyandxh@outlook.com or 3883794072</p>
-- <p>⚡ 有趣事实:我编程常忘词---------------------------------⚡Fun fact:I Often forgetting words</p>
 
 <!---
 zyandxh/zyandxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
